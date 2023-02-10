@@ -1,2 +1,2 @@
 # nucleus-segmentor
-A place to develop the nucleus segmentor 
+A place to host nucleus segmentor model development 
